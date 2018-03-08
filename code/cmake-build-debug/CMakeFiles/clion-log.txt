@@ -1,0 +1,18 @@
+/home/alfredo/Documentos/clion-2017.2.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/alfredo/Documentos/TEC/Analisis Numerico Ingenieria/Tareas/Tarea3/code"
+-- Boost version: 1.58.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+-- Boost version: 1.58.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+--   unit_test_framework
+-- Boost version: 1.58.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+--   unit_test_framework
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/alfredo/Documentos/TEC/Analisis Numerico Ingenieria/Tareas/Tarea3/code/cmake-build-debug

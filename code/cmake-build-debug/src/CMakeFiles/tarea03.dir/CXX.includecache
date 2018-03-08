@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alfredo/Documentos/TEC/Analisis Numerico Ingenieria/Tareas/Tarea3/code/src/main.cpp
+cstdlib
+-
+iostream
+-
+limits
+-
+
